@@ -1,4 +1,4 @@
-# GAN Face Generation
+# Tensorflow Sequence to Sequence Language Translation
 
 This repository contains a Tensorflow Sequence to Sequence Network used for language translation between the English and French languages for project 4: Machine translation, of the [Deep Learning Nanodegree Foundation 
 program](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) by Udacity.
