@@ -14,13 +14,15 @@ The code is located in a Jupyter Notebook. You can install Jupyter Notebook by i
 
 ## Installing
 
-1. Clone this repository
+Clone this repository
 
 ```
 git clone https://github.com/Heych88/udacity-dlnd-language-translation.git
 ```
 
-2. Navigate to the cloned directories location and start jupyter notebook with `dlnd_language_translation.ipynb`
+## Run the Code
+
+Navigate to the cloned directories location and start jupyter notebook with `dlnd_language_translation.ipynb`
 
 ```
 jupyter notebook dlnd_language_translation.ipynb
